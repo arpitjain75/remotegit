@@ -1,1 +1,2 @@
 Master conflict file
+Merge branch AJ00001 file
